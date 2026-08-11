@@ -1,6 +1,6 @@
 # Hi, I'm Amna 👋
 
-I'm a **Software Engineering student and aspiring AI/ML developer** who enjoys turning ideas into practical software.
+I'm a **Software Engineer and aspiring AI/ML developer** who enjoys turning ideas into practical software.
 
 I’m interested in **software development, artificial intelligence, machine learning, web development, and building useful applications** that solve real problems.
 
@@ -34,20 +34,6 @@ Some areas I particularly enjoy:
 * Exploring new technologies
 
 I especially like projects where I can combine **software engineering with AI** to create something genuinely useful.
-
-## 🛠️ Technologies
-
-**Languages**
-
-`Python` · `JavaScript` · `HTML` · `CSS` · `SQL`
-
-**Frameworks & Tools**
-
-`Django` · `Django REST Framework` · `OpenCV` · `Git` · `GitHub`
-
-**Currently Exploring**
-
-`Machine Learning` · `Computer Vision` · `AI Automation` · `NLP`
 
 ## 📌 What I Want to Do
 
