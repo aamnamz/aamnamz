@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Amna 👋
 
-<!--
-**aamnamz/aamnamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering student and aspiring AI/ML developer** who enjoys turning ideas into practical software.
 
-Here are some ideas to get you started:
+I’m interested in **software development, artificial intelligence, machine learning, web development, and building useful applications** that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working Toward
+
+My goal is to become a strong **software engineer with a focus on AI/ML**, while continuing to improve my problem-solving and development skills.
+
+I'm working toward:
+
+* 🧠 Building practical AI and machine learning projects
+* 💻 Becoming stronger in software engineering and backend development
+* 🌐 Creating scalable and useful web applications
+* 🤖 Exploring AI-powered tools and automation
+* 📚 Continuously learning new technologies and improving my fundamentals
+* 🚀 Turning projects and ideas into real-world products
+
+## 💡 What I Enjoy
+
+I enjoy **building things and figuring out how they work**.
+
+Some areas I particularly enjoy:
+
+* AI & Machine Learning
+* Python
+* Django & Backend Development
+* Computer Vision
+* Web Applications
+* Automation
+* APIs
+* Problem Solving
+* Exploring new technologies
+
+I especially like projects where I can combine **software engineering with AI** to create something genuinely useful.
+
+## 🛠️ Technologies
+
+**Languages**
+
+`Python` · `JavaScript` · `HTML` · `CSS` · `SQL`
+
+**Frameworks & Tools**
+
+`Django` · `Django REST Framework` · `OpenCV` · `Git` · `GitHub`
+
+**Currently Exploring**
+
+`Machine Learning` · `Computer Vision` · `AI Automation` · `NLP`
+
+## 📌 What I Want to Do
+
+I want to work on projects where I can **learn, build, experiment, and solve meaningful problems**.
+
+In the long term, I want to contribute to real software products, work with strong engineering teams, and eventually build my own **AI-powered products and solutions**.
+
+## 🌱 Always Learning
+
+I'm still early in my journey, so this profile is also a record of my progress.
+
+Every project here represents something I've learned, experimented with, or built while becoming a better developer.
+
+---
+
+### 🚀 What's Next?
+
+I'm building, learning, and experimenting one project at a time.
+
+**Always curious. Always building.**
+
