@@ -2,28 +2,27 @@
 
 I'm a **Software Engineer and aspiring AI/ML developer** who enjoys turning ideas into things that actually work.
 
-I'm curious about **AI, machine learning, software development, and web technologies**, especially where they come together to solve real problems.
+I'm drawn to the space where **software meets intelligence** — from building web applications and backend systems to experimenting with AI and automation.
 
-## 🚀 What I'm Building Toward
+## 🛠️ What I Work With
 
-I'm working toward becoming a strong **software engineer with a focus on AI/ML** — building useful applications, experimenting with new ideas, and constantly getting better at what I do.
+* 🐍 Python & Django
+* 🤖 AI & Machine Learning
+* 🌐 Web Development
+* 👁️ Computer Vision
+* 🔗 APIs & Automation
+* 🗄️ Databases & Backend Systems
 
-* 🧠 Exploring AI & Machine Learning
-* 💻 Building with Python & Django
-* 🌐 Developing practical web applications
-* 🤖 Experimenting with AI-powered tools and automation
-* 📚 Learning, breaking things, fixing them, and learning again
+## 💡 How I Like to Build
 
-## 💡 What I Like
+I enjoy taking a problem, breaking it down, and figuring out how technology can make the solution **simpler, smarter, or more useful**.
 
-I like **figuring things out** — taking an idea, asking *“what if?”*, and turning it into something real.
+Whether it's experimenting with a new model, building a backend, or turning an idea into a working application, I like learning by actually **making things**.
 
-My interests include **AI/ML, Python, backend development, computer vision, APIs, automation, and problem solving**.
+## 🌱 Beyond the Code
 
-I'm particularly drawn to projects that combine **good software engineering with intelligent solutions**.
+I'm constantly exploring new technologies and challenging myself with projects that push me outside what I already know.
 
-## 🌱 The Journey
+This profile is a collection of the things I've built, the problems I've solved, and the ideas I'm still figuring out.
 
-I'm still learning, and that's the fun part. Every project is another experiment, another problem solved, and another step forward.
-
-**Building things. Learning constantly. Seeing where it takes me. 🚀**
+**Curious by default. Building as I go. 🚀**
