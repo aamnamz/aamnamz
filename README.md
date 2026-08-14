@@ -1,57 +1,29 @@
 # Hi, I'm Amna 👋
 
-I'm a **Software Engineer and aspiring AI/ML developer** who enjoys turning ideas into practical software.
+I'm a **Software Engineer and aspiring AI/ML developer** who enjoys turning ideas into things that actually work.
 
-I’m interested in **software development, artificial intelligence, machine learning, web development, and building useful applications** that solve real problems.
+I'm curious about **AI, machine learning, software development, and web technologies**, especially where they come together to solve real problems.
 
-## 🚀 What I'm Working Toward
+## 🚀 What I'm Building Toward
 
-My goal is to become a strong **software engineer with a focus on AI/ML**, while continuing to improve my problem-solving and development skills.
+I'm working toward becoming a strong **software engineer with a focus on AI/ML** — building useful applications, experimenting with new ideas, and constantly getting better at what I do.
 
-I'm working toward:
+* 🧠 Exploring AI & Machine Learning
+* 💻 Building with Python & Django
+* 🌐 Developing practical web applications
+* 🤖 Experimenting with AI-powered tools and automation
+* 📚 Learning, breaking things, fixing them, and learning again
 
-* 🧠 Building practical AI and machine learning projects
-* 💻 Becoming stronger in software engineering and backend development
-* 🌐 Creating scalable and useful web applications
-* 🤖 Exploring AI-powered tools and automation
-* 📚 Continuously learning new technologies and improving my fundamentals
-* 🚀 Turning projects and ideas into real-world products
+## 💡 What I Like
 
-## 💡 What I Enjoy
+I like **figuring things out** — taking an idea, asking *“what if?”*, and turning it into something real.
 
-I enjoy **building things and figuring out how they work**.
+My interests include **AI/ML, Python, backend development, computer vision, APIs, automation, and problem solving**.
 
-Some areas I particularly enjoy:
+I'm particularly drawn to projects that combine **good software engineering with intelligent solutions**.
 
-* AI & Machine Learning
-* Python
-* Django & Backend Development
-* Computer Vision
-* Web Applications
-* Automation
-* APIs
-* Problem Solving
-* Exploring new technologies
+## 🌱 The Journey
 
-I especially like projects where I can combine **software engineering with AI** to create something genuinely useful.
+I'm still learning, and that's the fun part. Every project is another experiment, another problem solved, and another step forward.
 
-## 📌 What I Want to Do
-
-I want to work on projects where I can **learn, build, experiment, and solve meaningful problems**.
-
-In the long term, I want to contribute to real software products, work with strong engineering teams, and eventually build my own **AI-powered products and solutions**.
-
-## 🌱 Always Learning
-
-I'm still early in my journey, so this profile is also a record of my progress.
-
-Every project here represents something I've learned, experimented with, or built while becoming a better developer.
-
----
-
-### 🚀 What's Next?
-
-I'm building, learning, and experimenting one project at a time.
-
-**Always curious. Always building.**
-
+**Building things. Learning constantly. Seeing where it takes me. 🚀**
