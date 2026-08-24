@@ -1,28 +1,36 @@
-# Hi, I'm Amna 👋
+# Amna Mumtaz
 
-I'm a **Software Engineer and aspiring AI/ML developer** who enjoys turning ideas into things that actually work.
+I write software.
 
-I'm drawn to the space where **software meets intelligence** — from building web applications and backend systems to experimenting with AI and automation.
+Most of the time that means Python and Django.
+Sometimes it means JavaScript, databases, APIs and a lot of debugging.
 
-## 🛠️ What I Work With
+Then there's the other side of things:
 
-* 🐍 Python & Django
-* 🤖 AI & Machine Learning
-* 🌐 Web Development
-* 👁️ Computer Vision
-* 🔗 APIs & Automation
-* 🗄️ Databases & Backend Systems
+AI
+ML
+computer vision
+NLP
+automation
 
-## 💡 How I Like to Build
+I like that part because there's always something I don't understand yet.
 
-I enjoy taking a problem, breaking it down, and figuring out how technology can make the solution **simpler, smarter, or more useful**.
+### Currently
 
-Whether it's experimenting with a new model, building a backend, or turning an idea into a working application, I like learning by actually **making things**.
+learning more about AI/ML  
+building web applications  
+experimenting with computer vision  
+trying to write better software than I did six months ago
 
-## 🌱 Beyond the Code
+### Tools I keep coming back to
 
-I'm constantly exploring new technologies and challenging myself with projects that push me outside what I already know.
+Python · Django · PostgreSQL · JavaScript · React  
+PyTorch · scikit-learn · Transformers · Git
 
-This profile is a collection of the things I've built, the problems I've solved, and the ideas I'm still figuring out.
+### Around here
 
-**Curious by default. Building as I go. 🚀**
+You'll find projects I finished,
+projects I'm still fixing,
+and probably a few things that started with:
+
+> "I wonder if I can build this."
