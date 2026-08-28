@@ -29,8 +29,6 @@ PyTorch · scikit-learn · Transformers · Git
 
 ### Around here
 
-You'll find projects I finished,
-projects I'm still fixing,
-and probably a few things that started with:
+You'll find projects I’ve finished, projects I’m still refining, and a few that are simply here because they were part of learning the basics. And probably a few that started with:
 
 > "I wonder if I can build this."
