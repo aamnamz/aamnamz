@@ -34,4 +34,3 @@ You'll find projects I’ve finished, projects I’m still refining, and a few t
 > "I wonder if I can build this."
 
 
-![](https://komarev.com/ghpvc/?username=aamnamz)
