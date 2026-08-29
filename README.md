@@ -36,3 +36,7 @@ You'll find projects I’ve finished, projects I’m still refining, and a few t
 
 > "I wonder if I can build this."
 
+
+### let's connect
+
+[LinkedIn](https://www.linkedin.com/in/amnaamumtaz/) · [Email](mailto:aamnaa.mumtazz@gmail.com) · [GitHub](https://github.com/aamnamz)
