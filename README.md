@@ -15,6 +15,8 @@ automation
 
 I like that part because there's always something I don't understand yet.
 
+![Profile Views](https://komarev.com/ghpvc/?username=aamnamz&color=ff69b4&style=for-the-badge)
+
 ### Currently
 
 learning more about AI/ML  
@@ -27,10 +29,10 @@ trying to write better software than I did six months ago
 Python · Django · PostgreSQL · JavaScript · React  
 PyTorch · scikit-learn · Transformers · Git
 
+
 ### Around here
 
 You'll find projects I’ve finished, projects I’m still refining, and a few that are simply here because they were part of learning the basics. And probably a few that started with:
 
 > "I wonder if I can build this."
-
 
