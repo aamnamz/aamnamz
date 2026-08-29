@@ -32,3 +32,6 @@ PyTorch · scikit-learn · Transformers · Git
 You'll find projects I’ve finished, projects I’m still refining, and a few that are simply here because they were part of learning the basics. And probably a few that started with:
 
 > "I wonder if I can build this."
+
+
+![](https://komarev.com/ghpvc/?username=aamnamz)
